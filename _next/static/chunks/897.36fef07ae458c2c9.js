@@ -1,4 +1,4 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[88],{6088:(e,t,i)=>{i.r(t),i.d(t,{WaveGridBackground:()=>S});var r=i(9951),s=i(3431),a=i(1901),n=i(5334);let o={name:"CopyShader",uniforms:{tDiffuse:{value:null},opacity:{value:1}},vertexShader:`
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[897],{897:(e,t,i)=>{i.r(t),i.d(t,{WaveGridBackground:()=>S});var r=i(5538),s=i(1290),a=i(1952),n=i(9591);let o={name:"CopyShader",uniforms:{tDiffuse:{value:null},opacity:{value:1}},vertexShader:`
 
 		varying vec2 vUv;
 
